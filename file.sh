@@ -1,6 +1,6 @@
 #!/bin/bash
 
-printf "Say your name"
+printf "Say your name\n"
 
 read name
 
